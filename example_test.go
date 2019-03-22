@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	etcd "github.com/coreos/etcd/client"
+	etcd "github.com/etcd-io/etcd/client"
 	"github.com/mickep76/etcdmap"
 	"golang.org/x/net/context"
 )
